@@ -1,0 +1,2 @@
+capilizeAndLowercase("Hello")
+findMiddleIndex("Hello")
